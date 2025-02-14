@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConsoleMaze", "ConsoleMaze\ConsoleMaze.vcxproj", "{305DBA8B-8897-4C4C-972C-D640E0AB1C47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{305DBA8B-8897-4C4C-972C-D640E0AB1C47}.Debug|Win32.ActiveCfg = Debug|Win32
+		{305DBA8B-8897-4C4C-972C-D640E0AB1C47}.Debug|Win32.Build.0 = Debug|Win32
+		{305DBA8B-8897-4C4C-972C-D640E0AB1C47}.Debug|x64.ActiveCfg = Debug|x64
+		{305DBA8B-8897-4C4C-972C-D640E0AB1C47}.Debug|x64.Build.0 = Debug|x64
+		{305DBA8B-8897-4C4C-972C-D640E0AB1C47}.Release|Win32.ActiveCfg = Release|Win32
+		{305DBA8B-8897-4C4C-972C-D640E0AB1C47}.Release|Win32.Build.0 = Release|Win32
+		{305DBA8B-8897-4C4C-972C-D640E0AB1C47}.Release|x64.ActiveCfg = Release|x64
+		{305DBA8B-8897-4C4C-972C-D640E0AB1C47}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+EndGlobal
